@@ -2,9 +2,9 @@
 
 Very interested in 🔢 📈 numerical analysis and 📊 data science.
 
-Avid user of both NeoVim && VSCode.
+Avid user of both NeoVim & VSCode.
 
-Likes to speak && learn languages.
+Likes to speak & learn languages.
 
 Currently studying ⌨️ 🖥️ computer science.
 
@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
