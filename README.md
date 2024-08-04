@@ -1,4 +1,5 @@
 # Sandra | Laila | Layla | (Priscilla)
+###### The images featured here are not mine
 
 <img alt="beautiful city" width="800" src="city51.jpeg">
 
@@ -26,6 +27,9 @@ For the web i use ![](HTML5_.svg) ![](CSS3.svg) & ![](alpine.svg)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_graph_visualiser&theme=synthwave)](https://github.com/an-Iceberg/rust_graph_visualiser)
 
 ## Personal
+
+<img alt="beautiful city" width="800" src="train3.jpeg">
+
 Very interested in numerical analysis and data science.
 
 Likes to speak & learn languages.
