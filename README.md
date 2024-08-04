@@ -1,3 +1,7 @@
+# Sandra | Laila | Layla | (Priscilla)
+
+![beautiful city](city51.jpeg)
+
 🦀 Rust & 🔴🟢🟣 Julia enthusiast.
 
 Very interested in 🔢 📈 numerical analysis and 📊 data science.
