@@ -1,4 +1,4 @@
-🦀 Rust && 🔴🟢🟣 Julia enthusiast.
+🦀 Rust & 🔴🟢🟣 Julia enthusiast.
 
 Very interested in 🔢 📈 numerical analysis and 📊 data science.
 
