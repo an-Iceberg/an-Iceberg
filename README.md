@@ -4,20 +4,34 @@
 <img alt="beautiful city" width="800" src="city51.jpeg">
 
 ## Rust enthusiast 🦀
-I love the algebraic data types, which make Rust so powerful as well as tuples, the match keyword and the absence of `null`.
+I love the algebraic data types (especially the `Enum`), which make Rust so powerful as well as tuples, the match keyword and the absence of `null`.
 
 I also enjoy Julia for the ability to use any Unicode character as variable or function names which makes implementing math particularly easy.
 
 ## Technologies
-Languages i'm familiar with: ![](Rust.svg) ![](Julia_.svg) ![](Python.svg) ![](Java.svg) ![](TypeScript.svg)
+Languages i'm familiar with (in no particular order):
+- [![](Rust.svg)](https://www.rust-lang.org/)
+- [![](Julia_.svg)](https://julialang.org/)
+- [![](Python.svg)](https://www.python.org/)
+- [![](Java.svg)](https://www.java.com/en/)
+- [![](TypeScript.svg)](https://www.typescriptlang.org/)
 
-The tools i use: ![](VSCode.svg) ![](NeoVim.svg) ![](Firefox.svg) ![](Obsidian.svg)
+The tools i use (in no particular order):
+- [![](VSCode.svg)](https://code.visualstudio.com/)
+- [![](NeoVim.svg)](https://neovim.io/)
+- [![](Firefox.svg)](https://www.mozilla.org/en-US/firefox/new/)
+- [![](Obsidian.svg)](https://obsidian.md/)
 
-Favourite ![](Linux.svg) distros: ![](Alpine%20Linux.svg) ![](Arch%20Linux.svg) ![](Debian.svg) ![](Gentoo.svg) ![](KUbuntu.svg)
+Favourite ![](Linux.svg) distros (in no particular order):
+- [![](Alpine%20Linux.svg)](https://www.alpinelinux.org/)
+- [![](Arch%20Linux.svg)](https://archlinux.org/)
+- [![](Debian.svg)](https://www.debian.org/)
+- [![](Gentoo.svg)](https://www.gentoo.org/)
+- [![](KUbuntu.svg)](https://kubuntu.org/)
 
-Currently running ![](Arch%20Linux.svg) on everything.
+Currently running [![](Arch%20Linux.svg)](https://archlinux.org/) on everything.
 
-For the web i use ![](HTML5_.svg) ![](CSS3.svg) & ![](alpine.svg)
+For the web i use [![](HTML5_.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![](CSS3.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![](alpine.svg)](https://alpinejs.dev/) & [htmx](https://htmx.org/)
 
 ## Some notable Rust projects i'm working on
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=Balls&theme=outrun)](https://github.com/an-Iceberg/balls)
@@ -27,13 +41,25 @@ For the web i use ![](HTML5_.svg) ![](CSS3.svg) & ![](alpine.svg)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_maze_generator&theme=outrun)](https://github.com/an-Iceberg/rust_maze_generator)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_graph_visualiser&theme=synthwave)](https://github.com/an-Iceberg/rust_graph_visualiser)
 
-## Personal
+# Personal
 
 <img alt="beautiful city" width="800" src="train3.jpeg">
 
-Very interested in numerical analysis and data science.
+Very interested in numerical analysis, data science & physics simulations.
 
 Likes to speak & learn languages.
+
+Fluent in:
+- [en]
+- [de]
+- [hu]
+
+Ok in:
+- [fr]
+
+Currently learning:
+- [ru]
+- [es]
 
 Currently studying computer science.
 
@@ -42,7 +68,7 @@ Occasional hobbies include:
 - 🖋️ Calligraphy
 - 📷 Photography
 - 🪢 Macramé
-- ♟️ Chess
+- ~~♟️ Chess~~
 - 🎮 Video games
 
 <!--
