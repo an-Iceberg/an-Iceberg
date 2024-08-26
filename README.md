@@ -11,30 +11,79 @@ I also enjoy Julia for the ability to use any Unicode character as variable or f
 ## Technologies
 Languages i'm familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=rust,julia,python,java,typescript)](https://skillicons.dev)
+[![Rust](rust.svg)](https://www.rust-lang.org/)
+[![Julia](julia.svg)](https://julialang.org/)
 
-Languages i've worked with in the past:
+[![TypeScript](typescript.svg)](https://www.typescriptlang.org/)
+[![Java](java.svg)](https://www.java.com/en/)
+[![Python](python.svg)](https://www.python.org/)
 
-[![My Skills](https://skillicons.dev/icons?i=go,lua,c,cpp)](https://skillicons.dev)
+Languages i've worked with in the past (in no particular order):
+
+[![GO](go.svg)](https://go.dev/)
+[![Lua](lua.svg)](https://www.lua.org/)
+[![C](c.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](cpp.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![JavaScript](javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](php2.svg)](https://www.php.net/)
 
 The tools i use (in no particular order):
-- [![](VSCode.svg)](https://code.visualstudio.com/)
-- [![](NeoVim.svg)](https://neovim.io/)
-- [![](Firefox.svg)](https://www.mozilla.org/en-US/firefox/new/)
-- [![](Obsidian.svg)](https://obsidian.md/)
 
-Favourite ![](Linux.svg) distros (in no particular order):
-- [![](Alpine%20Linux.svg)](https://www.alpinelinux.org/)
-- [![](Arch%20Linux.svg)](https://archlinux.org/)
-- [![](Debian.svg)](https://www.debian.org/)
-- [![](Gentoo.svg)](https://www.gentoo.org/)
-- [![](KUbuntu.svg)](https://kubuntu.org/)
+[![Visual Studio Code](visualstudiocode1.svg)](https://code.visualstudio.com/)
+[![NeoVim](neovim3.svg)](https://neovim.io/)
+[![git](git1.svg)](https://git-scm.com/)
+![Linux](linux2.svg)
+[![Firefox](firefox3.svg)](https://www.mozilla.org/en-US/firefox/new/)
+[![Obsidian](obsidian1.svg)](https://obsidian.md/)
 
-Currently running [![](Arch%20Linux.svg)](https://archlinux.org/) on everything.
+Technology i use or am familiar with:
 
-For the web i use [![](HTML5_.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![](CSS3.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![](alpine.svg)](https://alpinejs.dev/) & [htmx](https://htmx.org/)
+![HTML 5](html1.svg)
+![CSS 3](css1.svg)
+[![Alpine JS](alpinejs.svg)](https://alpinejs.dev/)
+[![HTMX](htmx.svg)](https://htmx.org/)
+[![Bootstrap](bootstrap1.svg)](https://getbootstrap.com/)
 
-## Some notable Rust projects i'm working on
+[![Actix](actix.svg)](https://actix.rs/)
+[![Bevy](bevy.svg)](https://bevyengine.org/)
+[egui](https://www.egui.rs/)
+[![Tauri](tauri.svg)](https://v2.tauri.app/)
+
+[![GTK](gtk.svg)](https://www.gtk.org/)
+
+[![WASM](wasm.svg)](https://webassembly.org/)
+
+[![Three JS](threejs.svg)](https://threejs.org/)
+[![Vue](vue3.svg)](https://vuejs.org/)
+[![Angular](angular1.svg)](https://angular.dev/)
+
+[![Bun](bun.svg)](https://bun.sh/)
+[![Vite](vitejs1.svg)](https://vitejs.dev/)
+
+[![Gradle](gradle.svg)](https://gradle.org/)
+
+[![MariaDB](mariadb2.svg)](https://mariadb.org/)
+[![MySQL](mysql1.svg)](https://www.mysql.com/)
+[![PostgreSQL](postgresql1.svg)](https://www.postgresql.org/)
+[![SQLite](sqlite2.svg)](https://www.sqlite.org/)
+
+<!-- [![]()]() -->
+
+This is a very interesting language (but i'm married to Rust):
+
+[![Zig](zig.svg)](https://ziglang.org/)
+
+Favourite ![](linux2.svg) distros:
+
+[![](Alpine%20Linux.svg)](https://www.alpinelinux.org/)
+[![](arch1.svg)](https://archlinux.org/)
+[![](debian1.svg)](https://www.debian.org/)
+[![](Gentoo.svg)](https://www.gentoo.org/)
+[![](tailsos1.svg)](https://tails.net/)
+
+Currently running [![](arch.svg)](https://archlinux.org/) on everything.
+
+## Some notable Rust projects i've made or am working on:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=Balls&theme=outrun)](https://github.com/an-Iceberg/balls)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_with_physics&theme=shades-of-purple)](https://github.com/an-Iceberg/balls_with_physics)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_particles&theme=midnight-purple)](https://github.com/an-Iceberg/balls_particles)
@@ -50,17 +99,11 @@ Very interested in numerical analysis, data science & physics simulations.
 
 Likes to speak & learn languages.
 
-Fluent in:
-- [en]
-- [de]
-- [hu]
+Fluent in: [en], [de], [hu]
 
-Ok in:
-- [fr]
+Ok in: [fr]
 
-Currently learning:
-- [ru]
-- [es]
+Currently learning: [ru], [es]
 
 Currently studying computer science.
 
