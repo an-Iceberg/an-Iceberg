@@ -4,17 +4,18 @@
 <img alt="beautiful city" width="800" src="city51.jpeg">
 
 ## Rust enthusiast 🦀
-I love the algebraic data types (especially the `Enum`), which make Rust so powerful as well as tuples, the match keyword and the absence of `null`.
+I love the algebraic data types (especially the `enum`), which make Rust so powerful as well as tuples, the match keyword and the absence of `null`.
 
 I also enjoy Julia for the ability to use any Unicode character as variable or function names which makes implementing math particularly easy.
 
 ## Technologies
-Languages i'm familiar with (in no particular order):
-- [![](Rust.svg)](https://www.rust-lang.org/)
-- [![](Julia_.svg)](https://julialang.org/)
-- [![](Python.svg)](https://www.python.org/)
-- [![](Java.svg)](https://www.java.com/en/)
-- [![](TypeScript.svg)](https://www.typescriptlang.org/)
+Languages i'm familiar with:
+
+[![My Skills](https://skillicons.dev/icons?i=rust,julia,python,java,typescript)](https://skillicons.dev)
+
+Languages i've worked with in the past:
+
+[![My Skills](https://skillicons.dev/icons?i=go,lua,c,cpp)](https://skillicons.dev)
 
 The tools i use (in no particular order):
 - [![](VSCode.svg)](https://code.visualstudio.com/)
