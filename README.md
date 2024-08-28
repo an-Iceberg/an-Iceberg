@@ -75,13 +75,13 @@ This is a very interesting language (but i'm married to Rust):
 
 Favourite ![](linux2.svg) distros:
 
-[![](Alpine%20Linux.svg)](https://www.alpinelinux.org/)
+[Alpine](https://www.alpinelinux.org/)
 [![](arch1.svg)](https://archlinux.org/)
 [![](debian1.svg)](https://www.debian.org/)
-[![](Gentoo.svg)](https://www.gentoo.org/)
+[Gentoo](https://www.gentoo.org/)
 [![](tailsos1.svg)](https://tails.net/)
 
-Currently running [![](arch.svg)](https://archlinux.org/) on everything.
+Currently running [![](arch.svg)](https://archlinux.org/) on everything with [KDE](https://kde.org/).
 
 ## Some notable Rust projects i've made or am working on:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=Balls&theme=outrun)](https://github.com/an-Iceberg/balls)
