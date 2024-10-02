@@ -4,11 +4,20 @@
 <img alt="beautiful city" width="800" src="city51.jpeg">
 
 ## Rust enthusiast 🦀
+\# Todo: better, more verbose explanation
+
 I love the algebraic data types (especially the `enum`), which make Rust so powerful as well as tuples, the match keyword and the absence of `null`.
 
-I also enjoy Julia for the ability to use any Unicode character as variable or function names which makes implementing math particularly easy.
+\# Todo: improve this
+
+I also enjoy Julia. Reasons:
+- Use any unicode character as variable name
+- No need for multiplication operator when multiplying with numbers
+- Function piping
 
 ## Technologies
+\# Todo: create a section «my tech stack»
+
 Languages i'm familiar with:
 
 [![Rust](rust.svg)](https://www.rust-lang.org/)
@@ -57,6 +66,7 @@ Technology i use or am familiar with:
 [![Vue](vue3.svg)](https://vuejs.org/)
 [![Angular](angular1.svg)](https://angular.dev/)
 
+\# Todo: add nodejs
 [![Bun](bun.svg)](https://bun.sh/)
 [![Vite](vitejs1.svg)](https://vitejs.dev/)
 
@@ -75,13 +85,16 @@ This is a very interesting language (but i'm married to Rust):
 
 Favourite ![](linux2.svg) distros:
 
+\# Todo: better images for alpine & gentoo
+
 [Alpine](https://www.alpinelinux.org/)
 [![](arch1.svg)](https://archlinux.org/)
 [![](debian1.svg)](https://www.debian.org/)
 [Gentoo](https://www.gentoo.org/)
 [![](tailsos1.svg)](https://tails.net/)
 
-Currently running [![](arch.svg)](https://archlinux.org/) on everything with [KDE](https://kde.org/).
+Currently running [Arch Linux](https://archlinux.org/) on everything with [KDE](https://kde.org/).
+Not, because i am a snob about it, but because it offers the most up to date and the widest selection of software among all linux distros.
 
 ## Some notable Rust projects i've made or am working on:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=Balls&theme=outrun)](https://github.com/an-Iceberg/balls)
@@ -93,9 +106,10 @@ Currently running [![](arch.svg)](https://archlinux.org/) on everything with [KD
 
 # Personal
 
+\# Todo: there's a prettier image we have for this
 <img alt="beautiful city" width="800" src="train3.jpeg">
 
-Very interested in numerical analysis, data science & physics simulations.
+Interested in numerical analysis, data science & physics simulations.
 
 Likes to speak & learn languages.
 
@@ -112,6 +126,7 @@ Occasional hobbies include:
 - 🖋️ Calligraphy
 - 📷 Photography
 - 🪢 Macramé
+- 🌸 Anime 💮
 - ~~♟️ Chess~~
 - 🎮 Video games
 
