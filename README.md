@@ -13,6 +13,9 @@ I love the algebraic data types (especially the `enum`), which make Rust so powe
 I also enjoy Julia. Reasons:
 - Use any unicode character as variable name
 - No need for multiplication operator when multiplying with numbers
+- Optional function parameters
+- Default function parameters
+- Multiple dispatch
 - Function piping
 
 ## Technologies
