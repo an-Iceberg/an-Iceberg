@@ -112,6 +112,8 @@ Not, because i am a snob about it, but because it offers the most up to date and
 \# Todo: there's a prettier image we have for this
 <img alt="beautiful city" width="800" src="train3.jpeg">
 
+It is so weird to call programming/software engineering an interest of mine considering i'm studying to get a bacchelor to get a job in that field. Having a job in a field automatically makes that field a chore for me but i am gehtmlnuinely interestd in computer science.
+
 Interested in numerical analysis, data science & physics simulations.
 
 Likes to speak & learn languages.
