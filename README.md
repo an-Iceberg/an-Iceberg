@@ -1,5 +1,14 @@
-# Sandra | Laila | Layla | (Priscilla)
+# Priscilla | Laila | Sandra
+Both “Laila” and “Layla” are fine
 ###### The images featured here are not mine
+
+## Some notable Rust projects i've made or am working on:
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=Balls&theme=outrun)](https://github.com/an-Iceberg/balls)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_with_physics&theme=shades-of-purple)](https://github.com/an-Iceberg/balls_with_physics)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_particles&theme=midnight-purple)](https://github.com/an-Iceberg/balls_particles)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=grid_path_finder&theme=jolly)](https://github.com/an-Iceberg/grid_path_finder)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_maze_generator&theme=calm_pink)](https://github.com/an-Iceberg/rust_maze_generator)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_graph_visualiser&theme=ambient_gradient)](https://github.com/an-Iceberg/rust_graph_visualiser)
 
 <img alt="beautiful city" width="800" src="city51.jpeg">
 
@@ -98,14 +107,6 @@ Favourite ![](linux2.svg) distros:
 
 Currently running [Arch Linux](https://archlinux.org/) on everything with [KDE](https://kde.org/).
 Not, because i am a snob about it, but because it offers the most up to date and the widest selection of software among all linux distros.
-
-## Some notable Rust projects i've made or am working on:
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=Balls&theme=outrun)](https://github.com/an-Iceberg/balls)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_with_physics&theme=shades-of-purple)](https://github.com/an-Iceberg/balls_with_physics)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_particles&theme=midnight-purple)](https://github.com/an-Iceberg/balls_particles)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=grid_path_finder&theme=jolly)](https://github.com/an-Iceberg/grid_path_finder)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_maze_generator&theme=calm_pink)](https://github.com/an-Iceberg/rust_maze_generator)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_graph_visualiser&theme=ambient_gradient)](https://github.com/an-Iceberg/rust_graph_visualiser)
 
 # Personal
 
