@@ -15,11 +15,16 @@ Both “Laila” and “Layla” are fine
 ## Rust enthusiast 🦀
 \# Todo: better, more verbose explanation
 
-I love the algebraic data types (especially the `enum`), which make Rust so powerful as well as tuples, the match keyword and the absence of `null`.
+What i like about Rust:
+- algebraic data types (`enum`)
+- tuples
+- `match`
+- no `null`
+- errors as values/no exception handling (looking at you `try`, `catch` and `finally`
 
 \# Todo: improve this
 
-I also enjoy Julia. Reasons:
+I also enjoy Julia b/c:
 - Use any unicode character as variable name
 - No need for multiplication operator when multiplying with numbers
 - Optional function parameters
