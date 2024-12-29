@@ -1,5 +1,5 @@
 # Priscilla | Laila | Sandra
-Both “Laila” and “Layla” are fine
+Both ‹Laila› and ‹Layla› are fine
 ###### The images featured here are not mine
 
 ## Some notable Rust projects i've made or am working on:
