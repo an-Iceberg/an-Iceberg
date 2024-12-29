@@ -2,7 +2,7 @@
 Both ‹Laila› and ‹Layla› are fine
 ###### The images featured here are not mine
 
-## Some notable Rust projects i've made or am working on:
+## Some notable Rust projects i've made or am working on ❯❯❯
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=Balls&theme=outrun)](https://github.com/an-Iceberg/balls)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_with_physics&theme=shades-of-purple)](https://github.com/an-Iceberg/balls_with_physics)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_particles&theme=midnight-purple)](https://github.com/an-Iceberg/balls_particles)
@@ -15,7 +15,7 @@ Both ‹Laila› and ‹Layla› are fine
 ## Rust enthusiast 🦀
 \# Todo: better, more verbose explanation
 
-What i like about Rust:
+What i like about Rust ❯❯❯
 - algebraic data types (`enum`)
 - tuples
 - `match`
@@ -24,7 +24,7 @@ What i like about Rust:
 
 \# Todo: improve this
 
-I also enjoy Julia b/c:
+I also enjoy Julia ❯❯❯
 - Use any unicode character as variable name
 - No need for multiplication operator when multiplying with numbers
 - Optional function parameters
@@ -32,7 +32,7 @@ I also enjoy Julia b/c:
 - Multiple dispatch
 - Function piping
 
-## Technologies
+## Technologies ❯❯❯
 \# Todo: create a section «my tech stack»
 
 Languages i'm familiar with:
@@ -113,7 +113,7 @@ Favourite ![](linux2.svg) distros:
 Currently running [Arch Linux](https://archlinux.org/) on everything with [KDE](https://kde.org/).
 Not, because i am a snob about it, but because it offers the most up to date and the widest selection of software among all linux distros.
 
-# Personal
+# Personal ›››
 
 \# Todo: there's a prettier image we have for this
 <img alt="beautiful city" width="800" src="train3.jpeg">
@@ -132,7 +132,7 @@ Currently learning: [ru], [es]
 
 Currently studying computer science.
 
-Occasional hobbies include:
+Occasional hobbies include ❯❯❯
 - 🪢 Knots
 - 🖋️ Calligraphy
 - 📷 Photography
