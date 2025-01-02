@@ -1,4 +1,4 @@
-# Priscilla | Laila | Sandra
+# Priscilla  Laila  Sandra
 Both ‹Laila› and ‹Layla› are fine
 ###### The images featured here are not mine
 
