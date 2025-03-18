@@ -1,5 +1,6 @@
-# name
-Both ‹name› and ‹name › are fine
+# {name} ({name} {name})
+{name} is my primary name, {name} and {name} are my second names. I like them all but {name} is my favourite.
+Both ‹{name}› and ‹{name}› are fine
 ###### The images featured here are not mine
 
 ## Some notable Rust projects i've made or am working on ❯❯❯
