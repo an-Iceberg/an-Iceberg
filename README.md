@@ -1,3 +1,5 @@
+\# Todo: only use icons from here: https://github.com/ziadOUA/m3-Markdown-Badges#readme
+
 # {name} ({name} {name})
 {name} is my primary name, {name} and {name} are my second names. I like them all but {name} is my favourite.
 Both ‹{name}› and ‹{name}› are fine
