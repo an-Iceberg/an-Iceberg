@@ -1,6 +1,6 @@
-\# Todo: only use icons from here: https://github.com/ziadOUA/m3-Markdown-Badges#readme
+<img alt="beautiful impressionist city at night" width="800" src="images/city51.jpeg">
 
-# {name} ({name} {name})
+# {name} ({name} {name}) ~ she/her
 {name} is my primary name, {name} and {name} are my second names. I like them all but {name} is my favourite.
 Both ‹{name}› and ‹{name}› are fine
 ###### The images featured here are not mine
@@ -13,19 +13,81 @@ Both ‹{name}› and ‹{name}› are fine
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_maze_generator&theme=calm_pink)](https://github.com/an-Iceberg/rust_maze_generator)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_graph_visualiser&theme=ambient_gradient)](https://github.com/an-Iceberg/rust_graph_visualiser)
 
-<img alt="beautiful city" width="800" src="city51.jpeg">
+## Tech ❯❯❯
+###### The badge icons were taken from here: https://github.com/ziadOUA/m3-Markdown-Badges#readme
 
-## Rust enthusiast 🦀
-\# Todo: better, more verbose explanation
+<!-- Template: [![]()]() -->
+
+### My Toolbox
+[![Visual Studio Code](badges/visualstudiocode2.svg)](https://code.visualstudio.com/)
+[![NeoVim](badges/neovim3.svg)](https://neovim.io/)
+[![git](badges/git2.svg)](https://git-scm.com/)
+[![Firefox](badges/firefox2.svg)](https://www.mozilla.org/en-US/firefox/new/)
+[![LogSeq](badges/logseq2.svg)](https://logseq.com/)
+[![Arch Linux](badges/arch2.svg)](https://archlinux.org/)
+[![Vite.js](badges/vitejs2.svg)](https://vite.dev/)
+[![Postman](badges/postman2.svg)](https://www.postman.com/)
+[![Prettier](badges/prettier3.svg)](https://prettier.io/)
+
+### My Tech Stack
+[![Rust](badges/rust2.svg)](https://www.rust-lang.org/)
+[![Svelte](badges/svelte2.svg)](https://svelte.dev/)
+[![TypeScript](badges/typescript2.svg)](https://www.typescriptlang.org/)
+
+### Other Languages i've worked or am working with
+###### More familiar
+[Julia](https://julialang.org/)
+![C](badges/c2.svg)
+[![Java](badges/java2.svg)](https://www.java.com/en/)
+[![Python](badges/python3.svg)](https://www.python.org/)
+
+###### Less familiar
+[![C++](badges/c++2.svg)](https://isocpp.org/)
+[![Lua](badges/lua2.svg)](https://www.lua.org/)
+[![PHP](badges/php2.svg)](https://www.php.net/)
+[![C sharp](badges/csharp2.svg)](https://dotnet.microsoft.com/en-us/languages/csharp)
+
+### Databases i've worked with
+[![PostgreSQL](badges/postgresql2.svg)](https://www.postgresql.org/)
+[![SQLite](badges/sqlite2.svg)](https://www.sqlite.org/)
+
+### JavaScript Ecosystem i'm familiar with
+[Deno](https://deno.com/)
+[![JavaScript](badges/javascript3.svg)](https://www.javascript.com/)
+[![TypeScript](badges/typescript2.svg)](https://www.typescriptlang.org/)
+[![Node.js](badges/nodejs3.svg)](https://nodejs.org/en)
+[![Node Package Manager](badges/npm2.svg)](https://www.npmjs.com/)
+[![Express.js](badges/express3.svg)](https://expressjs.com/)
+[![Electron.js](badges/electron3.svg)](https://www.electronjs.org/)
+
+### Other Tech i'm familiar with
+[![Bootstrap](badges/bootstrap2.svg)](https://getbootstrap.com/)
+[![Cascading Style Sheets](badges/css2.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Hypertext Markup Language](badges/html2.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+### Other interesting Tech
+[![Monkeytype](badges/monkeytype3.svg)](https://monkeytype.com/)
+[![Zig](badges/zig.svg)](https://ziglang.org/)
+[![TailsOS](badges/tailsos2.svg)](https://tails.net/)
+[![Prisma](badges/prisma3.svg)](https://www.prisma.io/)
+[![Socket.io](badges/socketio3.svg)](https://socket.io/)
+[![Linux](badges/linux2.svg)](https://distrowatch.com/)
+[![Actix](badges/actix.svg)](https://actix.rs/)
+[![Bevy](badges/bevy.svg)](https://bevyengine.org/)
+[![Tauri](badges/tauri.svg)](https://tauri.app/)
+[![MongoDB](badges/mongodb3.svg)](https://www.mongodb.com/)
+
+## Rust Enthusiast 🦀
+<!-- Todo: better, more verbose explanation -->
 
 What i like about Rust ❯❯❯
 - algebraic data types (`enum`)
 - tuples
 - `match`
 - no `null`
-- errors as values/no exception handling (looking at you `try`, `catch` and `finally`
+- errors as values/no exception handling (looking at you `try`, `catch` and `finally`)
 
-\# Todo: improve this
+<!-- Todo: improve this -->
 
 I also enjoy Julia ❯❯❯
 - Use any unicode character as variable name
@@ -35,93 +97,14 @@ I also enjoy Julia ❯❯❯
 - Multiple dispatch
 - Function piping
 
-## Technologies ❯❯❯
-\# Todo: create a section «my tech stack»
-
-Languages i'm familiar with:
-
-[![Rust](rust.svg)](https://www.rust-lang.org/)
-[![Julia](julia.svg)](https://julialang.org/)
-
-[![TypeScript](typescript.svg)](https://www.typescriptlang.org/)
-[![Java](java.svg)](https://www.java.com/en/)
-[![Python](python.svg)](https://www.python.org/)
-
-Languages i've worked with in the past (in no particular order):
-
-[![GO](go.svg)](https://go.dev/)
-[![Lua](lua.svg)](https://www.lua.org/)
-[![C](c.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](cpp.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![JavaScript](javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![PHP](php2.svg)](https://www.php.net/)
-
-The tools i use (in no particular order):
-
-[![Visual Studio Code](visualstudiocode1.svg)](https://code.visualstudio.com/)
-[![NeoVim](neovim3.svg)](https://neovim.io/)
-[![git](git1.svg)](https://git-scm.com/)
-![Linux](linux2.svg)
-[![Firefox](firefox3.svg)](https://www.mozilla.org/en-US/firefox/new/)
-[![Obsidian](obsidian1.svg)](https://obsidian.md/)
-
-Technology i use or am familiar with:
-
-![HTML 5](html1.svg)
-![CSS 3](css1.svg)
-[![Alpine JS](alpinejs.svg)](https://alpinejs.dev/)
-[![HTMX](htmx.svg)](https://htmx.org/)
-[![Bootstrap](bootstrap1.svg)](https://getbootstrap.com/)
-
-[![Actix](actix.svg)](https://actix.rs/)
-[![Bevy](bevy.svg)](https://bevyengine.org/)
-[egui](https://www.egui.rs/)
-[![Tauri](tauri.svg)](https://v2.tauri.app/)
-
-[![GTK](gtk.svg)](https://www.gtk.org/)
-
-[![WASM](wasm.svg)](https://webassembly.org/)
-
-[![Three JS](threejs.svg)](https://threejs.org/)
-[![Vue](vue3.svg)](https://vuejs.org/)
-[![Angular](angular1.svg)](https://angular.dev/)
-
-\# Todo: add nodejs
-[![Bun](bun.svg)](https://bun.sh/)
-[![Vite](vitejs1.svg)](https://vitejs.dev/)
-
-[![Gradle](gradle.svg)](https://gradle.org/)
-
-[![MariaDB](mariadb2.svg)](https://mariadb.org/)
-[![MySQL](mysql1.svg)](https://www.mysql.com/)
-[![PostgreSQL](postgresql1.svg)](https://www.postgresql.org/)
-[![SQLite](sqlite2.svg)](https://www.sqlite.org/)
-
-<!-- [![]()]() -->
-
-This is a very interesting language (but i'm married to Rust):
-
-[![Zig](zig.svg)](https://ziglang.org/)
-
-Favourite ![](linux2.svg) distros:
-
-\# Todo: better images for alpine & gentoo
-
-[Alpine](https://www.alpinelinux.org/)
-[![](arch1.svg)](https://archlinux.org/)
-[![](debian1.svg)](https://www.debian.org/)
-[Gentoo](https://www.gentoo.org/)
-[![](tailsos1.svg)](https://tails.net/)
-
-Currently running [Arch Linux](https://archlinux.org/) on everything with [KDE](https://kde.org/).
-Not, because i am a snob about it, but because it offers the most up to date and the widest selection of software among all linux distros.
-
 # Personal ›››
 
-\# Todo: there's a prettier image we have for this
-<img alt="beautiful city" width="800" src="train3.jpeg">
+<!-- Todo: there's a prettier image we have for this -->
+<img alt="beautiful city" width="800" src="images/city7.jpeg">
 
 It is so weird to call programming/software engineering an interest of mine considering i'm studying to get a bacchelor to get a job in that field. Having a job in a field automatically makes that field a chore for me but i am genuinely interestd in computer science.
+
+Currently running [Arch Linux](https://archlinux.org/) on everything with [KDE](https://kde.org/) because it offers the most up to date and the widest selection of software among all linux distros.
 
 Interested in numerical analysis, data science & physics simulations.
 
@@ -141,7 +124,6 @@ Occasional hobbies include ❯❯❯
 - 📷 Photography
 - 🪢 Macramé
 - 🌸 Anime 💮
-- ~~♟️ Chess~~
 - 🎮 Video games
 
 <!--
