@@ -12,6 +12,7 @@ Both ‹{name}› and ‹{name}› are fine
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_particles&theme=midnight-purple)](https://github.com/an-Iceberg/balls_particles)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_maze_generator&theme=calm_pink)](https://github.com/an-Iceberg/rust_maze_generator)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_graph_visualiser&theme=ambient_gradient)](https://github.com/an-Iceberg/rust_graph_visualiser)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=todo_app&theme=jolly)](https://github.com/an-Iceberg/todo_app)
 
 ## Tech ❯❯❯
 ###### The badge icons were taken from here: https://github.com/ziadOUA/m3-Markdown-Badges#readme
