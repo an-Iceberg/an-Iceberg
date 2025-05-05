@@ -55,8 +55,8 @@ Both ‹{name}› and ‹{name}› are fine
 
 ## Databases i've worked with
 [![PostgreSQL](badges/postgresql1.svg)](https://www.postgresql.org/)
-[![MySQL](badges/mysql1.svg)](https://www.postgresql.org/)
-[![MariaDB](badges/mariadb1.svg)](https://www.postgresql.org/)
+[![MySQL](badges/mysql1.svg)](https://www.mysql.com/)
+[![MariaDB](badges/mariadb1.svg)](https://mariadb.org/)
 [![SQLite](badges/sqlite1.svg)](https://www.sqlite.org/)
 
 ## JavaScript Ecosystem i'm familiar with
