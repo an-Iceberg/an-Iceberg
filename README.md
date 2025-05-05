@@ -5,7 +5,7 @@
 Both ‹{name}› and ‹{name}› are fine
 ###### The images featured here are not mine
 
-# Some notable Rust projects i've made or am working on ❯❯❯
+# Some notable projects i've made or am working on ❯❯❯
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=grid_path_finder&theme=jolly)](https://github.com/an-Iceberg/grid_path_finder)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=Balls&theme=outrun)](https://github.com/an-Iceberg/balls)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_with_physics&theme=shades-of-purple)](https://github.com/an-Iceberg/balls_with_physics)
