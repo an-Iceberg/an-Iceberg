@@ -20,59 +20,59 @@ Both ‹{name}› and ‹{name}› are fine
 <!-- Template: [![]()]() -->
 
 ## My Toolbox
-[![Visual Studio Code](badges/visualstudiocode1.svg)](https://code.visualstudio.com/)
-[![NeoVim](badges/neovim1.svg)](https://neovim.io/)
-[![git](badges/git1.svg)](https://git-scm.com/)
+[![Visual Studio Code](badges/visualstudiocode2.svg)](https://code.visualstudio.com/)
+[![NeoVim](badges/neovim3.svg)](https://neovim.io/)
+[![git](badges/git2.svg)](https://git-scm.com/)
 [![Vite.js](badges/vitejs1.svg)](https://vite.dev/)
 [![Postman](badges/postman2.svg)](https://www.postman.com/)
 [![Arch Linux](badges/arch1.svg)](https://archlinux.org/)
 [![Firefox](badges/firefox2.svg)](https://www.mozilla.org/en-US/firefox/new/)
 [![GitHub](badges/github1.svg)](https://github.com/)
-[![Prettier](badges/prettier1.svg)](https://prettier.io/)
+[![Prettier](badges/prettier3.svg)](https://prettier.io/)
 
 [![Markdown](badges/markdown1.svg)](https://www.markdownguide.org/)
-[![LogSeq](badges/logseq1.svg)](https://logseq.com/)
+[![LogSeq](badges/logseq2.svg)](https://logseq.com/)
 [![Obsidian](badges/obsidian1.svg)](https://obsidian.md/)
 
 ## My Tech Stack
 [![Rust](badges/rust2.svg)](https://www.rust-lang.org/)
-[![Svelte](badges/svelte1.svg)](https://svelte.dev/)
+[![Svelte](badges/svelte2.svg)](https://svelte.dev/)
 [![Actix](badges/actix.svg)](https://actix.rs/)
-[![TypeScript](badges/typescript1.svg)](https://www.typescriptlang.org/)
+[![TypeScript](badges/typescript2.svg)](https://www.typescriptlang.org/)
 [<img src="badges/Julia-Dark.svg" alt="Julia" width="45">](https://julialang.org/)
-[![PostgreSQL](badges/postgresql1.svg)](https://www.postgresql.org/)
+[![PostgreSQL](badges/postgresql2.svg)](https://www.postgresql.org/)
 
 ## Other Languages i've worked or am working with
 ###### More familiar
-![C](badges/c1.svg)
-[![Java](badges/java1.svg)](https://www.java.com/en/)
-[![Python](badges/python1.svg)](https://www.python.org/)
+![C](badges/c2.svg)
+[![Java](badges/java2.svg)](https://www.java.com/en/)
+[![Python](badges/python3.svg)](https://www.python.org/)
 
 ###### Less familiar
-[![C++](badges/c++1.svg)](https://isocpp.org/)
-[![Lua](badges/lua1.svg)](https://www.lua.org/)
-[![PHP](badges/php1.svg)](https://www.php.net/)
+[![C++](badges/c++2.svg)](https://isocpp.org/)
+[![Lua](badges/lua2.svg)](https://www.lua.org/)
+[![PHP](badges/php2.svg)](https://www.php.net/)
 
 ## Databases i've worked with
-[![PostgreSQL](badges/postgresql1.svg)](https://www.postgresql.org/)
-[![MySQL](badges/mysql1.svg)](https://www.mysql.com/)
-[![MariaDB](badges/mariadb1.svg)](https://mariadb.org/)
-[![SQLite](badges/sqlite1.svg)](https://www.sqlite.org/)
+[![PostgreSQL](badges/postgresql2.svg)](https://www.postgresql.org/)
+[![MySQL](badges/mysql2.svg)](https://www.mysql.com/)
+[![MariaDB](badges/mariadb2.svg)](https://mariadb.org/)
+[![SQLite](badges/sqlite2.svg)](https://www.sqlite.org/)
 
 ## JavaScript Ecosystem i'm familiar with
 [<img src="images/deno.png" alt="Deno" height="55">](https://deno.com/)
 [![JavaScript](badges/javascript3.svg)](https://www.javascript.com/)
-[![TypeScript](badges/typescript1.svg)](https://www.typescriptlang.org/)
-[![Svelte](badges/svelte1.svg)](https://svelte.dev/)
-[![Node.js](badges/nodejs1.svg)](https://nodejs.org/en)
-[![Node Package Manager](badges/npm1.svg)](https://www.npmjs.com/)
-[![Express.js](badges/express1.svg)](https://expressjs.com/)
-[![Electron.js](badges/electron1.svg)](https://www.electronjs.org/)
+[![TypeScript](badges/typescript2.svg)](https://www.typescriptlang.org/)
+[![Svelte](badges/svelte2.svg)](https://svelte.dev/)
+[![Node.js](badges/nodejs3.svg)](https://nodejs.org/en)
+[![Node Package Manager](badges/npm2.svg)](https://www.npmjs.com/)
+[![Express.js](badges/express3.svg)](https://expressjs.com/)
+[![Electron.js](badges/electron3.svg)](https://www.electronjs.org/)
 
 ## Other Tech i'm familiar with
 [![Bootstrap](badges/bootstrap1.svg)](https://getbootstrap.com/)
-[![Cascading Style Sheets](badges/css1.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Hypertext Markup Language](badges/html1.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Cascading Style Sheets](badges/css2.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Hypertext Markup Language](badges/html2.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## Other Tech i find interesting
 [![Monkeytype](badges/monkeytype3.svg)](https://monkeytype.com/)
@@ -87,10 +87,10 @@ Both ‹{name}› and ‹{name}› are fine
 [![Debian](badges/debian1.svg)](https://www.debian.org/)
 [![Docker](badges/docker1.svg)](https://www.docker.com/)
 [![Fruity Loops Studio](badges/flstudio2.svg)](https://www.image-line.com/)
-[![JSON](badges/json1.svg)](https://www.json.org/json-en.html)
+[![JSON](badges/json3.svg)](https://www.json.org/json-en.html)
 [![Kali Linux](badges/kalilinux1.svg)](https://www.kali.org/)
 [![Kotlin](badges/kotlin1.svg)](https://kotlinlang.org/)
-[![NGINX](badges/nginx1.svg)](https://nginx.org/)
+[![NGINX](badges/nginx3.svg)](https://nginx.org/)
 [![Lichess](badges/lichess1.svg)](https://lichess.org/)
 [![Raspberry Pi](badges/raspberrypi1.svg)](https://www.raspberrypi.com/)
 [![Ardunio](badges/arduino1.svg)](https://www.arduino.cc/)
