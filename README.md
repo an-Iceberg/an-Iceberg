@@ -109,7 +109,7 @@ enum WebEvent
   PageUnload,
   KeyPress(char),
   Paste(String),
-  Click { x: i64, y: i64}
+  Click { x: i64, y: i64 }
 }
 ~~~
 The `match` is similar to a switch in other languages but more powerful:
