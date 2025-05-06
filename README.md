@@ -109,7 +109,7 @@ enum WebEvent
   PageUnload,
   KeyPress(char),
   Paste(String),
-  Click { x: i64, y: i64 }
+  Click { x: i64, y: i64 },
 }
 ~~~
 The `match` is similar to a switch in other languages but more powerful:
@@ -118,9 +118,9 @@ match event
 {
   WebEvent::PageLoad      => println!("page loaded"),
   WebEvent::PageUnload    => println!("page unloaded"),
-  WebEvent::KeyPress(c)   => println!("pressed '{c}'")
-  WebEvent::Paste(string) => println!("pasted \"{string}\"")
-  WebEvent::Click{x, y}   => println!("clicked at x={x}, y={y}")
+  WebEvent::KeyPress(c)   => println!("pressed '{c}'"),
+  WebEvent::Paste(string) => println!("pasted \"{string}\""),
+  WebEvent::Click{x, y}   => println!("clicked at x={x}, y={y}"),
 }
 ~~~
 It can also take in a tuple and do proper pattern matching:
@@ -131,7 +131,7 @@ match (a, b, c)
   (2, 'a', 3) => todo!(),
   (3, 'f', 1) => todo!(),
   (5, 'b', 1) => todo!(),
-  (_, _, _) => todo!()
+  (_, _, _) => todo!(),
 }
 ~~~
 Tuples also allow for multiple return values and destructuring:
