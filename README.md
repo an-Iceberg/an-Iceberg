@@ -168,6 +168,13 @@ enum Result<T, E>
 - Multiple dispatch
 - Function piping
 
+# TypeScript is pretty alr too ❯❯❯
+i oftentimes wonder if Rust is overkill for my purposes and if i should just write everything
+in TypeScript instead b/c i technically don't need the performance gains that come with Rust.
+i am also unsure if i'll truly be able to leverage the strength of the type system, considering
+i'm not that deeply familiar with Rust's type system that i could write a whole framework all by
+myself 😓.
+
 # Personal ›››
 
 <!-- Todo: there's a prettier image we have for this -->
