@@ -25,7 +25,7 @@ Both ‹{name}› and ‹{name}› are fine.
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=num_ts&theme=shades-of-purple)](https://github.com/an-Iceberg/num_ts)
 
 ## [<img src="badges/Julia-Dark.svg" alt="Julia" width="45">](https://julialang.org/)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=julia-num&theme=omni)](https://github.com/an-Iceberg/julia-num)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=julia-num&theme=aura)](https://github.com/an-Iceberg/julia-num)
 
 ## [![Svelte](badges/svelte2.svg)](https://svelte.dev/)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=todo_app&theme=synthwave)](https://github.com/an-Iceberg/todo_app)
