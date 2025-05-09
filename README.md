@@ -5,23 +5,24 @@
 Both ‹{name}› and ‹{name}› are fine.
 
 ###### The images featured here are not mine
-###### The badge icons were taken from [here](https://github.com/ziadOUA/m3-Markdown-Badges#readme) and [here](https://skillicons.dev/)
+###### The badge icons were taken from [m3 Markdown Badges](https://github.com/ziadOUA/m3-Markdown-Badges#readme), [Skill Icons](https://skillicons.dev/) and [Markdown Badges](https://github.com/Ileriayo/markdown-badges#readme)
 
 # Some notable projects i've made or am working on ❯❯❯
 
-// Todo: coherent themeing
+// Todo: add missing badges from markdown badges
 
 ## [![Rust](badges/rust2.svg)](https://www.rust-lang.org/)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=grid_path_finder&theme=jolly)](https://github.com/an-Iceberg/grid_path_finder)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=Balls&theme=outrun)](https://github.com/an-Iceberg/balls)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_with_physics&theme=shades-of-purple)](https://github.com/an-Iceberg/balls_with_physics)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_particles&theme=midnight-purple)](https://github.com/an-Iceberg/balls_particles)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_maze_generator&theme=calm_pink)](https://github.com/an-Iceberg/rust_maze_generator)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_graph_visualiser&theme=ambient_gradient)](https://github.com/an-Iceberg/rust_graph_visualiser)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=num_rs&theme=aura)](https://github.com/an-Iceberg/num_rs)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=grid_path_finder&theme=kacho_ga)](https://github.com/an-Iceberg/grid_path_finder)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=Balls&theme=kacho_ga)](https://github.com/an-Iceberg/balls)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_with_physics&theme=kacho_ga)](https://github.com/an-Iceberg/balls_with_physics)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_particles&theme=kacho_ga)](https://github.com/an-Iceberg/balls_particles)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_maze_generator&theme=kacho_ga)](https://github.com/an-Iceberg/rust_maze_generator)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_graph_visualiser&theme=kacho_ga)](https://github.com/an-Iceberg/rust_graph_visualiser)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=num_rs&theme=kacho_ga)](https://github.com/an-Iceberg/num_rs)
 
 ## [![TypeScript](badges/typescript2.svg)](https://www.typescriptlang.org/)
-// Todo: add repos
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=leetcode_ts&theme=shades-of-purple)](https://github.com/an-Iceberg/leetcode_ts)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=num_ts&theme=shades-of-purple)](https://github.com/an-Iceberg/num_ts)
 
 ## [<img src="badges/Julia-Dark.svg" alt="Julia" width="45">](https://julialang.org/)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=julia-num&theme=omni)](https://github.com/an-Iceberg/julia-num)
