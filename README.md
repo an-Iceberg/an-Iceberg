@@ -31,11 +31,11 @@ Both ‹{name}› and ‹{name}› are fine
 [![git](badges/git2.svg)](https://git-scm.com/)
 [![Vite.js](badges/vitejs1.svg)](https://vite.dev/)
 [![Postman](badges/postman2.svg)](https://www.postman.com/)
+[![Prettier](badges/prettier3.svg)](https://prettier.io/)
 
 [![Arch Linux](badges/arch1.svg)](https://archlinux.org/)
 [![Firefox](badges/firefox2.svg)](https://www.mozilla.org/en-US/firefox/new/)
 [![GitHub](badges/github1.svg)](https://github.com/)
-[![Prettier](badges/prettier3.svg)](https://prettier.io/)
 
 [![Markdown](badges/markdown1.svg)](https://www.markdownguide.org/)
 [![LogSeq](badges/logseq2.svg)](https://logseq.com/)
