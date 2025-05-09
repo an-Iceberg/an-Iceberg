@@ -1,17 +1,23 @@
 <img alt="beautiful impressionist city at night" width="800" src="images/city51.jpeg">
 
-# {name} ({name} {name}) ~ she/her
+# {name} ({name} {name}) ~ pronouns
 {name} is my primary name, {name} and {name} are my second names. I like them all but {name} is my favourite.
 Both ‹{name}› and ‹{name}› are fine
 ###### The images featured here are not mine
 
 # Some notable projects i've made or am working on ❯❯❯
+## Rust
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=grid_path_finder&theme=jolly)](https://github.com/an-Iceberg/grid_path_finder)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=Balls&theme=outrun)](https://github.com/an-Iceberg/balls)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_with_physics&theme=shades-of-purple)](https://github.com/an-Iceberg/balls_with_physics)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_particles&theme=midnight-purple)](https://github.com/an-Iceberg/balls_particles)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_maze_generator&theme=calm_pink)](https://github.com/an-Iceberg/rust_maze_generator)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_graph_visualiser&theme=ambient_gradient)](https://github.com/an-Iceberg/rust_graph_visualiser)
+## Typescript
+// Todo: add repos
+## Julia
+// Todo: add repos
+## Svelte
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=todo_app&theme=jolly)](https://github.com/an-Iceberg/todo_app)
 
 # Tech ❯❯❯
@@ -25,6 +31,7 @@ Both ‹{name}› and ‹{name}› are fine
 [![git](badges/git2.svg)](https://git-scm.com/)
 [![Vite.js](badges/vitejs1.svg)](https://vite.dev/)
 [![Postman](badges/postman2.svg)](https://www.postman.com/)
+
 [![Arch Linux](badges/arch1.svg)](https://archlinux.org/)
 [![Firefox](badges/firefox2.svg)](https://www.mozilla.org/en-US/firefox/new/)
 [![GitHub](badges/github1.svg)](https://github.com/)
@@ -62,7 +69,7 @@ Both ‹{name}› and ‹{name}› are fine
 ## JavaScript Ecosystem i'm familiar with
 [<img src="images/deno.png" alt="Deno" height="55">](https://deno.com/)
 [![JavaScript](badges/javascript3.svg)](https://www.javascript.com/)
-[![TypeScript](badges/typescript2.svg)](https://www.typescriptlang.org/)
+[![TypeScript](badges/typescript1.svg)](https://www.typescriptlang.org/)
 [![Svelte](badges/svelte2.svg)](https://svelte.dev/)
 [![Node.js](badges/nodejs3.svg)](https://nodejs.org/en)
 [![Node Package Manager](badges/npm2.svg)](https://www.npmjs.com/)
@@ -180,9 +187,16 @@ myself 😓.
 <!-- Todo: there's a prettier image we have for this -->
 <img alt="beautiful city" width="800" src="images/city7.jpeg">
 
-It is so weird to call programming/software engineering an interest of mine considering i'm studying to get a bacchelor to get a job in that field. Having a job in a field automatically makes that field a chore for me but i am genuinely interestd in computer science.
+It is so weird to call programming/software engineering an interest of mine considering i'm studying
+to get a bacchelor to get a job in that field. Having a job in a field automatically makes that field
+a chore for me but i am genuinely interestd in computer science.
 
-Currently running [Arch Linux](https://archlinux.org/) on everything with [KDE](https://kde.org/) because it offers the most up to date and the widest selection of software among all linux distros.
+Currently running [Arch Linux](https://archlinux.org/) on everything with [KDE](https://kde.org/)
+because it offers the most up to date and the widest selection of software among all linux distros.
+I want to try out an experiment with [Alipe Linux](https://www.alpinelinux.org/) together with
+[homebrew](https://brew.sh/) (or [Nix](https://nixos.org/)) and [KDE](https://kde.org/). It might
+just be to my liking but am not sure yet, which is why i'd want to try it out. Maybe [Debian](https://www.debian.org/)
+with [brew](https://brew.sh/) would also be worth trying out.
 
 Interested in numerical analysis, data science & physics simulations.
 
