@@ -59,9 +59,9 @@ Both ‹{name}› and ‹{name}› are fine.
 
 ## Other Languages i've worked or am working with
 ###### More familiar
+[![Python](badges/python3.svg)](https://www.python.org/)
 ![C](badges/c2.svg)
 [![Java](badges/java2.svg)](https://www.java.com/en/)
-[![Python](badges/python3.svg)](https://www.python.org/)
 
 ###### Less familiar
 [![C++](badges/c++2.svg)](https://isocpp.org/)
@@ -70,9 +70,9 @@ Both ‹{name}› and ‹{name}› are fine.
 
 ## Databases i've worked with
 [![PostgreSQL](badges/postgresql2.svg)](https://www.postgresql.org/)
+[![SQLite](badges/sqlite2.svg)](https://www.sqlite.org/)
 [![MySQL](badges/mysql2.svg)](https://www.mysql.com/)
 [![MariaDB](badges/mariadb2.svg)](https://mariadb.org/)
-[![SQLite](badges/sqlite2.svg)](https://www.sqlite.org/)
 
 ## JavaScript Ecosystem i'm familiar with
 [<img src="images/deno.png" alt="Deno" height="55">](https://deno.com/)
@@ -85,34 +85,34 @@ Both ‹{name}› and ‹{name}› are fine.
 [![Electron.js](badges/electron3.svg)](https://www.electronjs.org/)
 
 ## Other Tech i'm familiar with
-[![Bootstrap](badges/bootstrap1.svg)](https://getbootstrap.com/)
-[![Cascading Style Sheets](badges/css2.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Hypertext Markup Language](badges/html2.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Cascading Style Sheets](badges/css2.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bootstrap](badges/bootstrap1.svg)](https://getbootstrap.com/)
 
 ## Other Tech i find interesting
-[![Monkeytype](badges/monkeytype3.svg)](https://monkeytype.com/)
 [![Zig](badges/zig.svg)](https://ziglang.org/)
-[![TailsOS](badges/tailsos1.svg)](https://tails.net/)
-[![Prisma](badges/prisma1.svg)](https://www.prisma.io/)
-[![Socket.io](badges/socketio1.svg)](https://socket.io/)
 [![Bevy](badges/bevy.svg)](https://bevyengine.org/)
 [![Tauri](badges/tauri.svg)](https://tauri.app/)
-[![MongoDB](badges/mongodb3.svg)](https://www.mongodb.com/)
+[![Kotlin](badges/kotlin1.svg)](https://kotlinlang.org/)
+[![Prisma](badges/prisma1.svg)](https://www.prisma.io/)
+[![Socket.io](badges/socketio1.svg)](https://socket.io/)
 [![Axios](badges/axios1.svg)](https://axios-http.com/)
-[![Debian](badges/debian1.svg)](https://www.debian.org/)
+[![JSON](badges/json3.svg)](https://www.json.org/json-en.html)
+[![MongoDB](badges/mongodb3.svg)](https://www.mongodb.com/)
+[![NGINX](badges/nginx3.svg)](https://nginx.org/)
 [![Docker](badges/docker1.svg)](https://www.docker.com/)
 [![Fruity Loops Studio](badges/flstudio2.svg)](https://www.image-line.com/)
-[![JSON](badges/json3.svg)](https://www.json.org/json-en.html)
+[![TailsOS](badges/tailsos1.svg)](https://tails.net/)
+[![Debian](badges/debian1.svg)](https://www.debian.org/)
 [![Kali Linux](badges/kalilinux1.svg)](https://www.kali.org/)
-[![Kotlin](badges/kotlin1.svg)](https://kotlinlang.org/)
-[![NGINX](badges/nginx3.svg)](https://nginx.org/)
-[![Lichess](badges/lichess1.svg)](https://lichess.org/)
+[Alpine Linux](https://www.alpinelinux.org/)
 [![Raspberry Pi](badges/raspberrypi1.svg)](https://www.raspberrypi.com/)
 [![Ardunio](badges/arduino1.svg)](https://www.arduino.cc/)
+[![Monkeytype](badges/monkeytype3.svg)](https://monkeytype.com/)
+[![Lichess](badges/lichess1.svg)](https://lichess.org/)
 [![Linux](badges/linux2.svg)](https://distrowatch.com/)
 [![Steam](badges/steam1.svg)](https://store.steampowered.com/)
 [![Discord](badges/discord1.svg)](https://discord.com/)
-[Alpine Linux](https://www.alpinelinux.org/)
 
 # What i like about Rust 🦀 ❯❯❯
 
