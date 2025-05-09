@@ -2,26 +2,34 @@
 
 # {name} ({name} {name}) ~ pronouns
 {name} is my primary name, {name} and {name} are my second names. I like them all but {name} is my favourite.
-Both ‹{name}› and ‹{name}› are fine
+Both ‹{name}› and ‹{name}› are fine.
+
 ###### The images featured here are not mine
+###### The badge icons were taken from [here](https://github.com/ziadOUA/m3-Markdown-Badges#readme) and [here](https://skillicons.dev/)
 
 # Some notable projects i've made or am working on ❯❯❯
-## Rust
+
+// Todo: coherent themeing
+
+## [![Rust](badges/rust2.svg)](https://www.rust-lang.org/)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=grid_path_finder&theme=jolly)](https://github.com/an-Iceberg/grid_path_finder)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=Balls&theme=outrun)](https://github.com/an-Iceberg/balls)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_with_physics&theme=shades-of-purple)](https://github.com/an-Iceberg/balls_with_physics)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_particles&theme=midnight-purple)](https://github.com/an-Iceberg/balls_particles)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_maze_generator&theme=calm_pink)](https://github.com/an-Iceberg/rust_maze_generator)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_graph_visualiser&theme=ambient_gradient)](https://github.com/an-Iceberg/rust_graph_visualiser)
-## Typescript
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=num_rs&theme=aura)](https://github.com/an-Iceberg/num_rs)
+
+## [![TypeScript](badges/typescript2.svg)](https://www.typescriptlang.org/)
 // Todo: add repos
-## Julia
-// Todo: add repos
-## Svelte
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=todo_app&theme=jolly)](https://github.com/an-Iceberg/todo_app)
+
+## [<img src="badges/Julia-Dark.svg" alt="Julia" width="45">](https://julialang.org/)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=julia-num&theme=omni)](https://github.com/an-Iceberg/julia-num)
+
+## [![Svelte](badges/svelte2.svg)](https://svelte.dev/)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=todo_app&theme=synthwave)](https://github.com/an-Iceberg/todo_app)
 
 # Tech ❯❯❯
-###### The badge icons were taken from [here](https://github.com/ziadOUA/m3-Markdown-Badges#readme) and [here](https://skillicons.dev/)
 
 <!-- Template: [![]()]() -->
 
@@ -33,7 +41,7 @@ Both ‹{name}› and ‹{name}› are fine
 [![Postman](badges/postman2.svg)](https://www.postman.com/)
 [![Prettier](badges/prettier3.svg)](https://prettier.io/)
 
-[![Arch Linux](badges/arch1.svg)](https://archlinux.org/)
+[![Arch Linux](badges/arch2.svg)](https://archlinux.org/)
 [![Firefox](badges/firefox2.svg)](https://www.mozilla.org/en-US/firefox/new/)
 [![GitHub](badges/github1.svg)](https://github.com/)
 
@@ -104,6 +112,7 @@ Both ‹{name}› and ‹{name}› are fine
 [![Linux](badges/linux2.svg)](https://distrowatch.com/)
 [![Steam](badges/steam1.svg)](https://store.steampowered.com/)
 [![Discord](badges/discord1.svg)](https://discord.com/)
+[Alpine Linux](https://www.alpinelinux.org/)
 
 # What i like about Rust 🦀 ❯❯❯
 
@@ -165,7 +174,7 @@ enum Result<T, E>
 ~~~
 ###### Also, `async` and `await` are also supported
 
-<!-- Todo: improve this -->
+// Todo: improve this
 
 # I also enjoy Julia ❯❯❯
 - Use any unicode character as variable name
@@ -184,7 +193,8 @@ myself 😓.
 
 # Personal ›››
 
-<!-- Todo: there's a prettier image we have for this -->
+// Todo: there's a prettier image we have for this
+
 <img alt="beautiful city" width="800" src="images/city7.jpeg">
 
 It is so weird to call programming/software engineering an interest of mine considering i'm studying
