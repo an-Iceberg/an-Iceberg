@@ -159,6 +159,7 @@ Both ‹{name}› and ‹{name}› are fine.
 [<img src="badges/curl.svg" alt="" height="30" />](https://example.org)
 [<img src="badges/gnu.svg" alt="" height="30" />](https://example.org)
 [<img src="badges/w3schools.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/stackoverflow.svg" alt="" height="30" />](https://example.org)
 
 # What i like about Rust 🦀 ❯❯❯
 
