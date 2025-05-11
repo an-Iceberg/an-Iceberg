@@ -24,7 +24,7 @@ Both ‹{name}› and ‹{name}› are fine.
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=leetcode_ts&theme=shades-of-purple)](https://github.com/an-Iceberg/leetcode_ts)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=num_ts&theme=shades-of-purple)](https://github.com/an-Iceberg/num_ts)
 
-## [<img src="badges/Julia-Dark.svg" alt="Julia" width="45">](https://julialang.org/)
+## [<img src="badges/Julia.svg" alt="Julia" height="30" />](https://julialang.org/)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=julia-num&theme=aura)](https://github.com/an-Iceberg/julia-num)
 
 ## [![Svelte](badges/svelte2.svg)](https://svelte.dev/)
@@ -53,9 +53,9 @@ Both ‹{name}› and ‹{name}› are fine.
 ## My Tech Stack
 [![Rust](badges/rust2.svg)](https://www.rust-lang.org/)
 [![Svelte](badges/svelte2.svg)](https://svelte.dev/)
-[![Actix](badges/actix.svg)](https://actix.rs/)
+[<img src="badges/Actix.svg" alt="Actix" width="90" />](https://actix.rs/)
 [![TypeScript](badges/typescript2.svg)](https://www.typescriptlang.org/)
-[<img src="badges/Julia-Dark.svg" alt="Julia" width="45">](https://julialang.org/)
+[<img src="badges/Julia.svg" alt="Julia" width="90" />](https://julialang.org/)
 [![PostgreSQL](badges/postgresql2.svg)](https://www.postgresql.org/)
 
 ## Other Languages i've worked or am working with
@@ -76,7 +76,7 @@ Both ‹{name}› and ‹{name}› are fine.
 [![MariaDB](badges/mariadb2.svg)](https://mariadb.org/)
 
 ## JavaScript Ecosystem i'm familiar with
-[<img src="images/deno.png" alt="Deno" height="55">](https://deno.com/)
+[<img src="badges/Deno.svg" alt="Deno" height="30" />](https://deno.com/)
 [![JavaScript](badges/javascript3.svg)](https://www.javascript.com/)
 [![TypeScript](badges/typescript1.svg)](https://www.typescriptlang.org/)
 [![Svelte](badges/svelte2.svg)](https://svelte.dev/)
@@ -91,9 +91,9 @@ Both ‹{name}› and ‹{name}› are fine.
 [![Bootstrap](badges/bootstrap1.svg)](https://getbootstrap.com/)
 
 ## Other Tech i find interesting
-[![Zig](badges/zig.svg)](https://ziglang.org/)
-[![Bevy](badges/bevy.svg)](https://bevyengine.org/)
-[![Tauri](badges/tauri.svg)](https://tauri.app/)
+[<img src="badges/Zig.svg" alt="Zig" height="30" />](https://ziglang.org/)
+[<img src="badges/bevy2.svg" alt="Bevy" height="30" />](https://bevyengine.org/)
+[<img src="badges/tauri.svg" alt="Tauri" height="30" />](https://tauri.app/)
 [![Kotlin](badges/kotlin1.svg)](https://kotlinlang.org/)
 [![Prisma](badges/prisma1.svg)](https://www.prisma.io/)
 [![Socket.io](badges/socketio1.svg)](https://socket.io/)
@@ -106,7 +106,7 @@ Both ‹{name}› and ‹{name}› are fine.
 [![TailsOS](badges/tailsos1.svg)](https://tails.net/)
 [![Debian](badges/debian1.svg)](https://www.debian.org/)
 [![Kali Linux](badges/kalilinux1.svg)](https://www.kali.org/)
-[Alpine Linux](https://www.alpinelinux.org/)
+[<img src="badges/Alpine Linux.svg" alt="Alpine Linux" height="30" />](https://www.alpinelinux.org/)
 [![Raspberry Pi](badges/raspberrypi1.svg)](https://www.raspberrypi.com/)
 [![Ardunio](badges/arduino1.svg)](https://www.arduino.cc/)
 [![Monkeytype](badges/monkeytype3.svg)](https://monkeytype.com/)
@@ -114,6 +114,34 @@ Both ‹{name}› and ‹{name}› are fine.
 [![Linux](badges/linux2.svg)](https://distrowatch.com/)
 [![Steam](badges/steam1.svg)](https://store.steampowered.com/)
 [![Discord](badges/discord1.svg)](https://discord.com/)
+
+[![TypeORM](badges/typeorm1.svg)](https://typeorm.io/)
+
+[<img src="badges/Accessibility.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/Arch.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/Arch Linux.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/bitwarden.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/Freecodecamp.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/GeeksforGeeks.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/github actions.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/github pages.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/GODOT.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/Haskell.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/Homebrew.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/Itch.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/KUbuntu.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/LaTeX.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/LeetCode.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/LibreOffice.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/MDN Web Docs.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/Nix.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/proton.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/proton_mail.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/proton_calendar.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/proton_drive.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/Session.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/Signal.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/tor.svg" alt="" height="30" />](https://example.org)
 
 # What i like about Rust 🦀 ❯❯❯
 
