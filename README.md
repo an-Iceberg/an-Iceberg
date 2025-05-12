@@ -53,7 +53,7 @@ Both ‹{name}› and ‹{name}› are fine.
 [![Markdown](badges/markdown1.svg)](https://www.markdownguide.org/)
 [![LogSeq](badges/logseq2.svg)](https://logseq.com/)
 [![Obsidian](badges/obsidian1.svg)](https://obsidian.md/)
-[<img src="badges/LaTeX.svg" alt="LaTeX" height="30" />](https://www.latex-project.org/)
+[<img src="badges/latex.svg" alt="LaTeX" height="30" />](https://www.latex-project.org/)
 
 [<img src="badges/excalidraw.svg" alt="Excalidraw" height="30" />](https://excalidraw.com/)
 [<img src="badges/Freecodecamp.svg" alt="Freecodecamp" height="30" />](https://www.freecodecamp.org/)
@@ -69,9 +69,11 @@ Both ‹{name}› and ‹{name}› are fine.
 [![TypeScript](badges/typescript2.svg)](https://www.typescriptlang.org/)
 [![PostgreSQL](badges/postgresql2.svg)](https://www.postgresql.org/)
 
-[<img src="badges/Actix.svg" alt="Actix" width="90" />](https://actix.rs/)
 [<img src="badges/htmx.svg" alt="HTMX" height="30" />](https://htmx.org/)
 [![Svelte](badges/svelte2.svg)](https://svelte.dev/)
+[<img src="badges/Actix.svg" alt="Actix" width="90" />](https://actix.rs/)
+[<img src="badges/bevy2.svg" alt="Bevy" height="30" />](https://bevyengine.org/)
+[<img src="badges/tauri.svg" alt="Tauri" height="30" />](https://tauri.app/)
 [<img src="badges/polars.svg" alt="Polars" height="30" />](https://pola.rs/)
 
 ## Other Languages i've worked or am working with
@@ -137,8 +139,6 @@ Both ‹{name}› and ‹{name}› are fine.
 [![Kotlin](badges/kotlin1.svg)](https://kotlinlang.org/)
 [<img src="badges/Haskell.svg" alt="Haskell" height="30" />](https://www.haskell.org/)
 
-[<img src="badges/bevy2.svg" alt="Bevy" height="30" />](https://bevyengine.org/)
-[<img src="badges/tauri.svg" alt="Tauri" height="30" />](https://tauri.app/)
 [![Prisma](badges/prisma1.svg)](https://www.prisma.io/)
 [![Socket.io](badges/socketio1.svg)](https://socket.io/)
 [![Axios](badges/axios1.svg)](https://axios-http.com/)
