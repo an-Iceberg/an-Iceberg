@@ -12,23 +12,23 @@ Both ‹{name}› and ‹{name}› are fine.
 // Todo: add missing badges from markdown badges
 
 ## [![Rust](badges/rust2.svg)](https://www.rust-lang.org/)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=grid_path_finder&theme=kacho_ga)](https://github.com/an-Iceberg/grid_path_finder)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=Balls&theme=kacho_ga)](https://github.com/an-Iceberg/balls)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_with_physics&theme=kacho_ga)](https://github.com/an-Iceberg/balls_with_physics)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_particles&theme=kacho_ga)](https://github.com/an-Iceberg/balls_particles)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_maze_generator&theme=kacho_ga)](https://github.com/an-Iceberg/rust_maze_generator)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_graph_visualiser&theme=kacho_ga)](https://github.com/an-Iceberg/rust_graph_visualiser)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=num_rs&theme=kacho_ga)](https://github.com/an-Iceberg/num_rs)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=grid_path_finder&border_radius=20&theme=jolly)](https://github.com/an-Iceberg/grid_path_finder)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=Balls&border_radius=20&theme=jolly)](https://github.com/an-Iceberg/balls)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_with_physics&border_radius=20&theme=jolly)](https://github.com/an-Iceberg/balls_with_physics)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=balls_particles&border_radius=20&theme=jolly)](https://github.com/an-Iceberg/balls_particles)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_maze_generator&border_radius=20&theme=jolly)](https://github.com/an-Iceberg/rust_maze_generator)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_graph_visualiser&border_radius=20&theme=jolly)](https://github.com/an-Iceberg/rust_graph_visualiser)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=num_rs&border_radius=20&theme=jolly)](https://github.com/an-Iceberg/num_rs)
 
 ## [![TypeScript](badges/typescript2.svg)](https://www.typescriptlang.org/)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=leetcode_ts&theme=shades-of-purple)](https://github.com/an-Iceberg/leetcode_ts)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=num_ts&theme=shades-of-purple)](https://github.com/an-Iceberg/num_ts)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=leetcode_ts&theme=shades-of-purple&border_radius=20)](https://github.com/an-Iceberg/leetcode_ts)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=num_ts&theme=shades-of-purple&border_radius=20)](https://github.com/an-Iceberg/num_ts)
 
 ## [<img src="badges/Julia.svg" alt="Julia" height="30" />](https://julialang.org/)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=julia-num&theme=aura)](https://github.com/an-Iceberg/julia-num)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=julia-num&theme=cobalt&border_radius=20)](https://github.com/an-Iceberg/julia-num)
 
 ## [![Svelte](badges/svelte2.svg)](https://svelte.dev/)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=todo_app&theme=synthwave)](https://github.com/an-Iceberg/todo_app)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=todo_app&theme=synthwave&border_radius=20)](https://github.com/an-Iceberg/todo_app)
 
 # Tech ❯❯❯
 
@@ -41,22 +41,38 @@ Both ‹{name}› and ‹{name}› are fine.
 [![Vite.js](badges/vitejs1.svg)](https://vite.dev/)
 [![Postman](badges/postman2.svg)](https://www.postman.com/)
 [![Prettier](badges/prettier3.svg)](https://prettier.io/)
+[<img src="badges/editorconfig.svg" alt="editorconfig" height="30" />](https://editorconfig.org/)
 
 [![Arch Linux](badges/arch2.svg)](https://archlinux.org/)
 [![Firefox](badges/firefox2.svg)](https://www.mozilla.org/en-US/firefox/new/)
 [![GitHub](badges/github1.svg)](https://github.com/)
+[<img src="badges/filezilla.svg" alt="FileZilla" height="30" />](https://filezilla-project.org/)
+[<img src="badges/github actions.svg" alt="GitHub actions" height="30" />](https://github.com/features/actions)
+[<img src="badges/github pages.svg" alt="GitHub pages" height="30" />](https://pages.github.com/)
 
 [![Markdown](badges/markdown1.svg)](https://www.markdownguide.org/)
 [![LogSeq](badges/logseq2.svg)](https://logseq.com/)
 [![Obsidian](badges/obsidian1.svg)](https://obsidian.md/)
+[<img src="badges/LaTeX.svg" alt="LaTeX" height="30" />](https://www.latex-project.org/)
+
+[<img src="badges/excalidraw.svg" alt="Excalidraw" height="30" />](https://excalidraw.com/)
+[<img src="badges/Freecodecamp.svg" alt="Freecodecamp" height="30" />](https://www.freecodecamp.org/)
+[<img src="badges/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" />](https://www.geeksforgeeks.org/)
+[<img src="badges/MDN Web Docs.svg" alt="MDN Web Docs" height="30" />](https://developer.mozilla.org/en-US/)
+[<img src="badges/LeetCode.svg" alt="LeetCode" height="30" />](https://leetcode.com/problemset/)
+[<img src="badges/w3schools.svg" alt="w3schools" height="30" />](https://www.w3schools.com/)
+[<img src="badges/stackoverflow.svg" alt="stackoverflow" height="30" />](https://stackoverflow.com)
 
 ## My Tech Stack
 [![Rust](badges/rust2.svg)](https://www.rust-lang.org/)
-[![Svelte](badges/svelte2.svg)](https://svelte.dev/)
-[<img src="badges/Actix.svg" alt="Actix" width="90" />](https://actix.rs/)
-[![TypeScript](badges/typescript2.svg)](https://www.typescriptlang.org/)
 [<img src="badges/Julia.svg" alt="Julia" width="90" />](https://julialang.org/)
+[![TypeScript](badges/typescript2.svg)](https://www.typescriptlang.org/)
 [![PostgreSQL](badges/postgresql2.svg)](https://www.postgresql.org/)
+
+[<img src="badges/Actix.svg" alt="Actix" width="90" />](https://actix.rs/)
+[<img src="badges/htmx.svg" alt="HTMX" height="30" />](https://htmx.org/)
+[![Svelte](badges/svelte2.svg)](https://svelte.dev/)
+[<img src="badges/polars.svg" alt="Polars" height="30" />](https://pola.rs/)
 
 ## Other Languages i've worked or am working with
 ###### More familiar
@@ -90,77 +106,77 @@ Both ‹{name}› and ‹{name}› are fine.
 [![Cascading Style Sheets](badges/css2.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bootstrap](badges/bootstrap1.svg)](https://getbootstrap.com/)
 
+## Other Tech i use
+[<img src="badges/GODOT.svg" alt="Godot" height="30" />](https://godotengine.org/)
+[<img src="badges/LibreOffice.svg" alt="LibreOffice" height="30" />](https://www.libreoffice.org/)
+[<img src="badges/vlc.svg" alt="VLC" height="30" />](https://www.videolan.org/vlc/)
+[<img src="badges/keepassxc.svg" alt="KeePassXC" height="30" />](https://keepassxc.org/)
+[<img src="badges/fish_shell.svg" alt="fish shell" height="30" />](https://fishshell.com/)
+[<img src="badges/alacritty.svg" alt="Alacritty" height="30" />](https://alacritty.org/)
+[<img src="badges/kde.svg" alt="KDE (kool desktop environment)" height="30" />](https://kde.org/)
+
+[![Steam](badges/steam1.svg)](https://store.steampowered.com/)
+[![Discord](badges/discord1.svg)](https://discord.com/)
+[<img src="badges/Session.svg" alt="Session" height="30" />](https://getsession.org/)
+[<img src="badges/Signal.svg" alt="Signal" height="30" />](https://signal.org/)
+[<img src="badges/matrix.svg" alt="matrix protocol" height="30" />](https://matrix.org/)
+[<img src="badges/whatsapp.svg" alt="WhatsApp" height="30" />](https://www.whatsapp.com/)
+
+[<img src="badges/μblockorigin.svg" alt="μblock origin" height="30" />](https://ublockorigin.com/)
+[<img src="badges/dark_reader.svg" alt="dark reader" height="30" />](https://darkreader.org/)
+
+[<img src="badges/proton.svg" alt="Proton" height="30" />](https://proton.me/)
+[<img src="badges/proton_mail.svg" alt="Proton mail" height="30" />](https://proton.me/mail)
+[<img src="badges/proton_calendar.svg" alt="Proton calendar" height="30" />](https://proton.me/calendar)
+[<img src="badges/proton_drive.svg" alt="Proton drive" height="30" />](https://proton.me/drive)
+
+[![Monkeytype](badges/monkeytype3.svg)](https://monkeytype.com/)
+
 ## Other Tech i find interesting
 [<img src="badges/Zig.svg" alt="Zig" height="30" />](https://ziglang.org/)
+[![Kotlin](badges/kotlin1.svg)](https://kotlinlang.org/)
+[<img src="badges/Haskell.svg" alt="Haskell" height="30" />](https://www.haskell.org/)
+
 [<img src="badges/bevy2.svg" alt="Bevy" height="30" />](https://bevyengine.org/)
 [<img src="badges/tauri.svg" alt="Tauri" height="30" />](https://tauri.app/)
-[![Kotlin](badges/kotlin1.svg)](https://kotlinlang.org/)
 [![Prisma](badges/prisma1.svg)](https://www.prisma.io/)
 [![Socket.io](badges/socketio1.svg)](https://socket.io/)
 [![Axios](badges/axios1.svg)](https://axios-http.com/)
+[![TypeORM](badges/typeorm1.svg)](https://typeorm.io/)
+[<img src="badges/postcss.svg" alt="PostCSS" height="30" />](https://postcss.org/)
+[<img src="badges/d3js.svg" alt="D3" height="30" />](https://d3js.org/)
+[<img src="badges/platformio.svg" alt="PlatformIO" height="30" />](https://platformio.org/)
 [![JSON](badges/json3.svg)](https://www.json.org/json-en.html)
-[![MongoDB](badges/mongodb3.svg)](https://www.mongodb.com/)
 [![NGINX](badges/nginx3.svg)](https://nginx.org/)
+[![MongoDB](badges/mongodb3.svg)](https://www.mongodb.com/)
 [![Docker](badges/docker1.svg)](https://www.docker.com/)
+
 [![Fruity Loops Studio](badges/flstudio2.svg)](https://www.image-line.com/)
+[<img src="badges/tor.svg" alt="TOR" height="30" />](https://www.torproject.org/)
+[<img src="badges/wireshark.svg" alt="wireshark" height="30" />](https://www.wireshark.org/)
+[<img src="badges/nushell.svg" alt="Nushell" height="30" />](https://www.nushell.sh/)
+
 [![TailsOS](badges/tailsos1.svg)](https://tails.net/)
 [![Debian](badges/debian1.svg)](https://www.debian.org/)
 [![Kali Linux](badges/kalilinux1.svg)](https://www.kali.org/)
-[<img src="badges/Alpine Linux.svg" alt="Alpine Linux" height="30" />](https://www.alpinelinux.org/)
+[<img src="badges/Arch Linux.svg" alt="Arch linux" height="30" />](https://archlinux.org/)
+[<img src="badges/Alpine Linux.svg" alt="Alpine linux" height="30" />](https://www.alpinelinux.org/)
+[<img src="badges/KUbuntu.svg" alt="KUbuntu" height="30" />](https://kubuntu.org/)
+[<img src="badges/Nix.svg" alt="Nix" height="30" />](https://nixos.org/)
+[<img src="badges/Homebrew.svg" alt="Homebrew" height="30" />](https://brew.sh/)
+
 [![Raspberry Pi](badges/raspberrypi1.svg)](https://www.raspberrypi.com/)
 [![Ardunio](badges/arduino1.svg)](https://www.arduino.cc/)
-[![Monkeytype](badges/monkeytype3.svg)](https://monkeytype.com/)
+
+[<img src="badges/Itch.svg" alt="itch.io" height="30" />](https://itch.io/)
+[<img src="badges/compiler_explorer.svg" alt="compiler explorer (godbold.org)" height="30" />](https://godbolt.org/)
+[<img src="badges/curl.svg" alt="CURL" height="30" />](https://curl.se/)
+[<img src="badges/gnu.svg" alt="GNU project" height="30" />](https://www.gnu.org/)
 [![Lichess](badges/lichess1.svg)](https://lichess.org/)
+
 [![Linux](badges/linux2.svg)](https://distrowatch.com/)
-[![Steam](badges/steam1.svg)](https://store.steampowered.com/)
-[![Discord](badges/discord1.svg)](https://discord.com/)
 
-[![TypeORM](badges/typeorm1.svg)](https://typeorm.io/)
-
-[<img src="badges/Accessibility.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/Arch.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/Arch Linux.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/keepassxc.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/Freecodecamp.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/GeeksforGeeks.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/github actions.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/github pages.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/GODOT.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/Haskell.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/Homebrew.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/Itch.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/KUbuntu.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/LaTeX.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/LeetCode.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/LibreOffice.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/MDN Web Docs.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/Nix.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/proton.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/proton_mail.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/proton_calendar.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/proton_drive.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/Session.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/Signal.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/tor.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/editorconfig.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/excalidraw.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/postcss.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/d3js.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/platformio.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/polars.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/filezilla.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/vlc.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/μblockorigin.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/wireshark.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/matrix.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/fish_shell.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/alacritty.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/compiler_explorer.svg" alt="" height="30" />](https://godbolt.org/)
-[<img src="badges/curl.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/gnu.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/w3schools.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/stackoverflow.svg" alt="" height="30" />](https://example.org)
-[<img src="badges/whatsapp.svg" alt="" height="30" />](https://example.org)
+[<img src="badges/Accessibility.svg" alt="accessibility" height="30" />](https://example.org)
 
 # What i like about Rust 🦀 ❯❯❯
 
@@ -249,7 +265,8 @@ It is so weird to call programming/software engineering an interest of mine cons
 to get a bacchelor to get a job in that field. Having a job in a field automatically makes that field
 a chore for me but i am genuinely interestd in computer science.
 
-Currently running [Arch Linux](https://archlinux.org/) on everything with [KDE](https://kde.org/)
+Currently running [![Arch Linux](badges/Arch%20Linux.svg)](https://archlinux.org/) on everything with
+[KDE](https://kde.org/)
 because it offers the most up to date and the widest selection of software among all linux distros.
 I want to try out an experiment with [Alipe Linux](https://www.alpinelinux.org/) together with
 [homebrew](https://brew.sh/) (or [Nix](https://nixos.org/)) and [KDE](https://kde.org/). It might
