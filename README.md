@@ -9,8 +9,6 @@ Both ‹{name}› and ‹{name}› are fine.
 
 # Some notable projects i've made or am working on ❯❯❯
 
-// Todo: add missing badges from markdown badges
-
 ## [![Rust](badges/rust2.svg)](https://www.rust-lang.org/)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=grid_path_finder&border_radius=20&theme=jolly)](https://github.com/an-Iceberg/grid_path_finder)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=Balls&border_radius=20&theme=jolly)](https://github.com/an-Iceberg/balls)
