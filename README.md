@@ -5,7 +5,7 @@
 Both ‹{name}› and ‹{name}› are fine.
 
 ###### The images featured here are not mine
-###### The badge icons were taken from [m3 Markdown Badges](https://github.com/ziadOUA/m3-Markdown-Badges#readme), [Skill Icons](https://skillicons.dev/) and [Markdown Badges](https://github.com/Ileriayo/markdown-badges#readme)
+###### The badge icons were taken from [m3 Markdown Badges](https://github.com/ziadOUA/m3-Markdown-Badges#readme), [Skill Icons](https://skillicons.dev/), [Markdown Badges](https://github.com/Ileriayo/markdown-badges#readme) or generated using [shields.io](https://shields.io)
 
 # Some notable projects i've made or am working on ❯❯❯
 
