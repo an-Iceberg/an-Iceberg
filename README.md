@@ -134,8 +134,9 @@ Both ‹{name}› and ‹{name}› are fine.
 
 ## Other Tech i find interesting
 [<img src="badges/Zig.svg" alt="Zig" height="30" />](https://ziglang.org/)
-[![Kotlin](badges/kotlin1.svg)](https://kotlinlang.org/)
 [<img src="badges/Haskell.svg" alt="Haskell" height="30" />](https://www.haskell.org/)
+[![Kotlin](badges/kotlin1.svg)](https://kotlinlang.org/)
+[<img src="badges/scala.svg" alt="Scala" height="30" />](https://www.scala-lang.org/)
 
 [![Prisma](badges/prisma1.svg)](https://www.prisma.io/)
 [![Socket.io](badges/socketio1.svg)](https://socket.io/)
@@ -154,14 +155,13 @@ Both ‹{name}› and ‹{name}› are fine.
 [<img src="badges/wireshark.svg" alt="wireshark" height="30" />](https://www.wireshark.org/)
 [<img src="badges/nushell.svg" alt="Nushell" height="30" />](https://www.nushell.sh/)
 
+[<img src="badges/Alpine Linux.svg" alt="Alpine linux" height="30" />](https://www.alpinelinux.org/)
+[<img src="badges/Homebrew.svg" alt="Homebrew" height="30" />](https://brew.sh/)
 [![TailsOS](badges/tailsos1.svg)](https://tails.net/)
 [![Debian](badges/debian1.svg)](https://www.debian.org/)
 [![Kali Linux](badges/kalilinux1.svg)](https://www.kali.org/)
-[<img src="badges/Arch Linux.svg" alt="Arch linux" height="30" />](https://archlinux.org/)
-[<img src="badges/Alpine Linux.svg" alt="Alpine linux" height="30" />](https://www.alpinelinux.org/)
 [<img src="badges/KUbuntu.svg" alt="KUbuntu" height="30" />](https://kubuntu.org/)
 [<img src="badges/Nix.svg" alt="Nix" height="30" />](https://nixos.org/)
-[<img src="badges/Homebrew.svg" alt="Homebrew" height="30" />](https://brew.sh/)
 
 [![Raspberry Pi](badges/raspberrypi1.svg)](https://www.raspberrypi.com/)
 [![Ardunio](badges/arduino1.svg)](https://www.arduino.cc/)
