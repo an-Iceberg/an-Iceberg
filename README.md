@@ -28,6 +28,9 @@ Both ‹{name}› and ‹{name}› are fine.
 ## [![Svelte](badges/svelte2.svg)](https://svelte.dev/)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=todo_app&theme=synthwave&border_radius=20)](https://github.com/an-Iceberg/todo_app)
 
+### Python
+https://github.com/an-Iceberg/num_py
+
 # Tech ❯❯❯
 
 <!-- Template: [![]()]() -->
@@ -100,6 +103,15 @@ Both ‹{name}› and ‹{name}› are fine.
 [![Node Package Manager](badges/npm2.svg)](https://www.npmjs.com/)
 [![Express.js](badges/express3.svg)](https://expressjs.com/)
 [![Electron.js](badges/electron3.svg)](https://www.electronjs.org/)
+
+## Python Ecosystem i'm familiar with
+[<img src="badges/NumPy.svg" alt="NumPy" height="30" />](https://numpy.org/)
+[JAX](https://docs.jax.dev/en/latest/quickstart.html),
+[ArrayFire](https://arrayfire.com/)
+[<img src="badges/SymPy.svg" alt="SymPy" height="30" />](https://www.sympy.org/en/index.html)
+[<img src="badges/SciPy.svg" alt="SciPy" height="30" />](https://scipy.org/)
+[<img src="badges/pandas.svg" alt="pandas" height="30" />](https://pandas.pydata.org/)
+[matplotlib](https://matplotlib.org/)
 
 ## Other Tech i'm familiar with
 [![Hypertext Markup Language](badges/html2.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
