@@ -123,6 +123,7 @@ https://github.com/an-Iceberg/num_py
 [<img src="badges/LibreOffice.svg" alt="LibreOffice" height="30" />](https://www.libreoffice.org/)
 [<img src="badges/vlc.svg" alt="VLC" height="30" />](https://www.videolan.org/vlc/)
 [<img src="badges/keepassxc.svg" alt="KeePassXC" height="30" />](https://keepassxc.org/)
+[KeePassDX](https://www.keepassdx.com/)
 [<img src="badges/fish_shell.svg" alt="fish shell" height="30" />](https://fishshell.com/)
 [<img src="badges/alacritty.svg" alt="Alacritty" height="30" />](https://alacritty.org/)
 [<img src="badges/kde.svg" alt="KDE (kool desktop environment)" height="30" />](https://kde.org/)
