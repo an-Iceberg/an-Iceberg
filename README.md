@@ -1,8 +1,8 @@
 <img alt="beautiful impressionist city at night" width="800" src="images/city51.jpeg">
 
-# {name} ({name} {name}) ~ pronouns
-{name} is my primary name, {name} and {name} are my second names. I like them all but {name} is my favourite.
-Both ‹{name}› and ‹{name}› are fine.
+# Priscilla (Laila, Sandra) ~ she/her
+‹Priscilla› is my primary name, ‹Laila› and ‹Sandra› are my second names. I like them all but ‹Priscilla› is my favourite.
+Both ‹Laila› and ‹Layla› are fine.
 
 ###### The images featured here are not mine
 ###### The badge icons were taken from [m3 Markdown Badges](https://github.com/ziadOUA/m3-Markdown-Badges#readme), [Skill Icons](https://skillicons.dev/), [Markdown Badges](https://github.com/Ileriayo/markdown-badges#readme) or generated using [shields.io](https://shields.io)
@@ -18,20 +18,21 @@ Both ‹{name}› and ‹{name}› are fine.
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=rust_graph_visualiser&border_radius=20&theme=jolly)](https://github.com/an-Iceberg/rust_graph_visualiser)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=num_rs&border_radius=20&theme=jolly)](https://github.com/an-Iceberg/num_rs)
 
-## [![TypeScript](badges/typescript2.svg)](https://www.typescriptlang.org/)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=leetcode_ts&theme=shades-of-purple&border_radius=20)](https://github.com/an-Iceberg/leetcode_ts)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=num_ts&theme=shades-of-purple&border_radius=20)](https://github.com/an-Iceberg/num_ts)
-
 ## [<img src="badges/Julia.svg" alt="Julia" height="30" />](https://julialang.org/)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=julia-num&theme=cobalt&border_radius=20)](https://github.com/an-Iceberg/julia-num)
 
 ## [![Svelte](badges/svelte2.svg)](https://svelte.dev/)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=todo_app&theme=synthwave&border_radius=20)](https://github.com/an-Iceberg/todo_app)
 
-### Python
+## [![TypeScript](badges/typescript2.svg)](https://www.typescriptlang.org/)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=leetcode_ts&theme=shades-of-purple&border_radius=20)](https://github.com/an-Iceberg/leetcode_ts)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=an-Iceberg&repo=num_ts&theme=shades-of-purple&border_radius=20)](https://github.com/an-Iceberg/num_ts)
+
+### [![Python](badges/python3.svg)](https://www.python.org/)
 https://github.com/an-Iceberg/num_py
 
 # Tech ❯❯❯
+###### too many badges 😝
 
 <!-- Template: [![]()]() -->
 
@@ -53,7 +54,6 @@ https://github.com/an-Iceberg/num_py
 
 [![Markdown](badges/markdown1.svg)](https://www.markdownguide.org/)
 [![LogSeq](badges/logseq2.svg)](https://logseq.com/)
-[![Obsidian](badges/obsidian1.svg)](https://obsidian.md/)
 [<img src="badges/latex.svg" alt="LaTeX" height="30" />](https://www.latex-project.org/)
 
 [<img src="badges/excalidraw.svg" alt="Excalidraw" height="30" />](https://excalidraw.com/)
@@ -167,6 +167,7 @@ https://github.com/an-Iceberg/num_py
 [<img src="badges/tor.svg" alt="TOR" height="30" />](https://www.torproject.org/)
 [<img src="badges/wireshark.svg" alt="wireshark" height="30" />](https://www.wireshark.org/)
 [<img src="badges/nushell.svg" alt="Nushell" height="30" />](https://www.nushell.sh/)
+[![Obsidian](badges/obsidian1.svg)](https://obsidian.md/)
 
 [<img src="badges/Alpine Linux.svg" alt="Alpine linux" height="30" />](https://www.alpinelinux.org/)
 [<img src="badges/Homebrew.svg" alt="Homebrew" height="30" />](https://brew.sh/)
@@ -222,7 +223,7 @@ match (a, b, c)
   (2, 'a', 3) => todo!(),
   (3, 'f', 1) => todo!(),
   (5, 'b', 1) => todo!(),
-  (_, _, _) => todo!(),
+  (_, _, _)   => todo!(),
 }
 ~~~
 Tuples also allow for multiple return values and destructuring:
@@ -259,7 +260,7 @@ enum Result<T, E>
 - Multiple dispatch
 - Function piping
 
-# TypeScript is pretty alr too ❯❯❯
+## TypeScript is pretty alr too ❯❯❯
 i oftentimes wonder if Rust is overkill for my purposes and if i should just write everything
 in TypeScript instead b/c i technically don't need the performance gains that come with Rust.
 i am also unsure if i'll truly be able to leverage the strength of the type system, considering
@@ -276,7 +277,7 @@ It is so weird to call programming/software engineering an interest of mine cons
 to get a bacchelor to get a job in that field. Having a job in a field automatically makes that field
 a chore for me but i am genuinely interestd in computer science.
 
-Currently running [![Arch Linux](badges/Arch%20Linux.svg)](https://archlinux.org/) on everything with
+Currently running [Arch Linux](https://archlinux.org/) on everything with
 [KDE](https://kde.org/)
 because it offers the most up to date and the widest selection of software among all linux distros.
 I want to try out an experiment with [Alipe Linux](https://www.alpinelinux.org/) together with
